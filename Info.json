@@ -1,0 +1,7 @@
+{
+    "Id": "DVCompanionTestMod",
+    "DisplayName": "Derail Valley Companion Test",
+    "Author": "Cappycot",
+    "Version": "0.1.0",
+    "EntryMethod": "DVCompanionTestMod.Main.Load"
+}
