@@ -1,6 +1,4 @@
-﻿
-
-namespace DVCompanionTestMod
+﻿namespace DVCompanionTestMod
 {
     public enum AssistantModState
     {
