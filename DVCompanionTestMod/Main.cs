@@ -92,7 +92,7 @@ namespace DVCompanionTestMod
             bc.size = new Vector3(ASSISTANT_RADIUS, 1.6f, ASSISTANT_RADIUS);
             _assistantController = vrm.AddComponent<CharacterController>();
             _assistantController.center = new Vector3(0f, 0.8f, 0f);
-            _assistantController.height = 1.44f;
+            _assistantController.height = 1.46f;
             _assistantController.radius = ASSISTANT_RADIUS;
             _assistantController.slopeLimit = 75f;
             _assistantController.stepOffset = 0.4f;
